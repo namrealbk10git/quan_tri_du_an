@@ -75,5 +75,6 @@ int main() {
 	s.setAge(5);
 	s.setDiem(7);
 	s.ShowInfo();
+	//lan 2
 	return 0;
 }

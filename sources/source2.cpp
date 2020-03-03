@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
+//this is comment
 class Student {
 private:
 	string name;
